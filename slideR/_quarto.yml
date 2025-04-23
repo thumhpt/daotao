@@ -1,0 +1,11 @@
+project:
+  title: "slide_intro"
+  
+freeze: true
+
+format:
+  revealjs:
+    slide-number: true
+    toc-depth: 2
+    toc: false
+    toc-slide: false
